@@ -80,7 +80,7 @@
 **Steps:**
 - Create class `TemperatureConverter`
 - Add static method for conversion
-- Call without instance
+- Call without instance 
 
 ## 13. Composition
 **Steps:**
