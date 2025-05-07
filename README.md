@@ -1,1 +1,1 @@
-# projrct_6-Complete-Traditional-OOP-Practice-Series
+# project_6-Complete-Traditional-OOP-Practice-Series
